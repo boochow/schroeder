@@ -1,7 +1,7 @@
 /*
  * File: schroeder.cpp
  *
- * Schroeder's reverbration
+ * Schroeder's reverberator
  *
  */
 
